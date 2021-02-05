@@ -18,9 +18,7 @@ def divide():
            iy = int(input())
         except ValueError:
            print('You did not enter a number')    
-        else:
-
-            
+        else:          
             bflag=False   
            
 
