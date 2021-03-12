@@ -1,6 +1,5 @@
 
-
-#cansodas = {'coke':1.25,'pepsi':1.21,'fanta':0.99}
+#week 7 Learn Together
 sodas = {'name':'coke','price':1.25}
 
 #adding a key to the DD

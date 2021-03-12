@@ -1,0 +1,20 @@
+Part 1 - Demonstrate Local Dev Environment (20 points)
+This part of the dev_0 you will need to demonstrate your local system setup and do the basic git workflow for a specific task I give. Place your code in your private repo in a new folder named dev and in there create another new folder named dev_0. 
+
+Part 2 - Write Code (80 points)
+Here is a list of what has been covered so far in this class:
+
+Variables (local and global)
+Converting str to int and int to str
+Getting Input()
+Flow Control - If, Else and Elif, While Loops and For Loops
+Functions - Third party, Your Own and returning values, I added default values here. 
+Try, Except, While, Finally pattern
+Lists and Loops
+You need to create a program that implements 90% of the python code we have covered in a meaningful way.  This means that your code has an objective and your code accomplishes that directive.
+
+Code Review
+Code Review is a required part of this work,  if you write code that does all the things listed above and you do NOT come in for a code review you will lose 50% of the points possible.
+Bringing code that does not function into a code review, depending on the level of errors/logic will also subject the student to 50% off the points possible. 
+During the code review you will walk me thru your code, you will need to tell me how the code is functioning and answer any question I have for you regarding your code to receive the points possible for this work. 
+Session can be done online thru zoom, I'll have a schedule soon for your to sign up for sessions during the week this work is due.
