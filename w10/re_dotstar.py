@@ -57,3 +57,4 @@ print(vowelRegex.findall('Serve the public trust.Protect innoncents.Upload the l
 print('[a-u]')
 vowelRegex = re.compile(r'[aeiou]',re.I)#ignores uppercase
 print(vowelRegex.findall('Serve the public trust.Protect Innoncents.Upload the law.'))
+
