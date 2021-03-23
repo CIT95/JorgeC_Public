@@ -13,7 +13,7 @@ print(namesRegex.sub('REDACTED','Agent Alice gave the secret documents to Agent 
 namesRegex = re.compile(r'Agent (\w)\w*') #returning [A,B]
 print(namesRegex.findall('Agent Alice gave the secret documents to Agent Bob.'))
 print(namesRegex.sub(r'Agent \1****','Agent Alice gave the secret documents to Agent Bob.'))
-
+"""
 namesRegex = re.compile(r'''
 (\d\d\d)-| #are code without parens, diwht dash
 (\(\d\d\d) ) #area code
@@ -22,3 +22,4 @@ namesRegex = re.compile(r'''
 \d\d\d\d     #last 4 digtss
 \sx\d{2,4} # extension.like x1234  ''',re.IGNORECASE | re.DOTALL|re.VERBOSE)
 print(namesRegex.findall('668-265-45478 Agent Alice gave the secret documents to Agent Bob.'))
+"""
